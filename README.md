@@ -1,6 +1,6 @@
 ### Yoel Gal
 
-Builder. I ship side projects to scratch my own itch — open-source meeting notes, autonomous dev loops, always-on room recorders.
+Builder. I ship side projects to scratch my own itch – open-source meeting notes, autonomous dev loops, always-on room recorders.
 
 ---
 
