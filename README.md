@@ -15,4 +15,5 @@ Builder. I ship side projects to scratch my own itch – local-first meeting not
 **Reach me**
 
 - LinkedIn — [yoel-gal](https://www.linkedin.com/in/yoel-gal/)
+- X — [@YoelGal__](https://x.com/YoelGal__)
 - Email — [yoelgal108@gmail.com](mailto:yoelgal108@gmail.com)
