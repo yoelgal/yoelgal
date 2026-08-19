@@ -1,15 +1,14 @@
 ### Yoel Gal
 
-Builder. I ship side projects to scratch my own itch – open-source meeting notes, autonomous dev loops, always-on room recorders.
+Builder. I ship side projects to scratch my own itch – local-first meeting notes, portable agent skills, a voxel town built out of research papers.
 
 ---
 
 **Selected work**
 
 - [**better-dev**](https://github.com/yoelgal/better-dev) — portable dev practices, packaged as skills that run inside the coding agent you already use (Claude Code, Codex, pi, hermes).
-- [**musli**](https://github.com/yoelgal/musli) — open-source meeting notes that stay with you. On-device transcription via whisper.cpp, your own backend, bring-your-own model.
-- [**clip-thing**](https://github.com/yoelgal/clip-thing) — say *"clip that"* and the last 30 seconds of audio are saved and transcribed. Runs on a Pi or your laptop.
-- [**digested-ai**](https://github.com/yoelgal/digested-ai) — create and subscribe to AI-generated reading digests. Automated scraping → GPT → email pipeline on n8n.
+- [**meetings**](https://github.com/yoelgal/meetings) — a local-first meeting recorder and note-taker for macOS. An app for you, a CLI for your agent.
+- [**papers.town**](https://papers.town) — Letterboxd for research papers. Log, rate and review what you read, and your library grows into an explorable 8-bit isometric voxel town.
 
 ---
 
