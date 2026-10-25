@@ -1,13 +1,13 @@
 ### Yoel Gal
 
-Builder. I ship side projects to scratch my own itch – notes that land in your transcript, a break reminder for your Mac, a voxel town built out of research papers.
+Builder. I ship side projects to scratch my own itch – notes that land in your transcript, a break reminder for your Mac.
 
 ---
 
 **Selected work**
 
 - [**Notes Thing**](https://notesthing.yoelgal.com) — record anything on your Mac and take notes as you listen. Every note lands in the on-device transcript at the second you wrote it.
-- [**papers.town**](https://papers.town) — Letterboxd for research papers. Log, rate and review what you read, and your library grows into an explorable 8-bit isometric voxel town.
+- [**OpenLookAway**](https://lookaway.yoelgal.com) — free, open-source break reminder for your Mac. Rest your eyes, fix your posture, keep your flow.
 
 ---
 
